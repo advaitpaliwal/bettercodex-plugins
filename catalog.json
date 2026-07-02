@@ -21,24 +21,6 @@
       "skillPath": "bettercodex-skills/skills/failing-test-first"
     },
     {
-      "id": "focus-contrast",
-      "type": "theme",
-      "name": "Focus Contrast",
-      "description": "Improves focus rings and active control contrast in Codex without changing the overall app layout.",
-      "author": "BetterCodex",
-      "version": "1.0.0",
-      "tags": [
-        "accessibility",
-        "focus",
-        "contrast"
-      ],
-      "homepageUrl": null,
-      "updatedAt": "2026-06-29",
-      "sourceUrl": "https://github.com/companion-inc/bettercodex-plugins/tree/main/addons/themes/focus-contrast",
-      "fileName": "focus-contrast.theme.css",
-      "downloadUrl": "https://raw.githubusercontent.com/companion-inc/bettercodex-plugins/main/addons/themes/focus-contrast/focus-contrast.theme.css"
-    },
-    {
       "id": "pr-ready",
       "type": "skill",
       "name": "PR Ready",
