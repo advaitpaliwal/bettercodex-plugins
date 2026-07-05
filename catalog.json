@@ -8,7 +8,7 @@
       "name": "Account Switcher",
       "description": "Save Codex auth profiles and switch the active Codex account from inside BetterCodex.",
       "author": "BetterCodex",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "tags": [
         "accounts",
         "profiles",
