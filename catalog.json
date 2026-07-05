@@ -3,6 +3,24 @@
   "generatedAt": "generated",
   "addons": [
     {
+      "id": "account-switcher",
+      "type": "plugin",
+      "name": "Account Switcher",
+      "description": "Save Codex auth profiles and switch the active Codex account from inside BetterCodex.",
+      "author": "BetterCodex",
+      "version": "0.1.0",
+      "tags": [
+        "accounts",
+        "profiles",
+        "productivity"
+      ],
+      "homepageUrl": null,
+      "updatedAt": "2026-07-05",
+      "sourceUrl": "https://github.com/companion-inc/bettercodex-plugins/tree/main/addons/plugins/account-switcher",
+      "fileName": "account-switcher.plugin.js",
+      "downloadUrl": "https://raw.githubusercontent.com/companion-inc/bettercodex-plugins/main/addons/plugins/account-switcher/account-switcher.plugin.js"
+    },
+    {
       "id": "failing-test-first",
       "type": "skill",
       "name": "Failing Test First",

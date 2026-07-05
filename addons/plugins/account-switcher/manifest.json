@@ -1,0 +1,15 @@
+{
+  "type": "plugin",
+  "name": "Account Switcher",
+  "description": "Save Codex auth profiles and switch the active Codex account from inside BetterCodex.",
+  "author": "BetterCodex",
+  "version": "0.1.0",
+  "updatedAt": "2026-07-05",
+  "tags": [
+    "accounts",
+    "profiles",
+    "productivity"
+  ],
+  "file": "account-switcher.plugin.js",
+  "source": "https://github.com/companion-inc/bettercodex-plugins/tree/main/addons/plugins/account-switcher"
+}

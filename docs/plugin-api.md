@@ -43,6 +43,20 @@ Wrap functions on an object. Each returns an unpatch function; `stop()` should c
 | `BdApi.Plugins.getAll()` | Installed plugins. |
 | `BdApi.Themes.getAll()` | Installed themes. |
 
+## Accounts
+
+Native Codex account profile management. These methods are available to desktop
+plugins because account switching has to write Codex's local `auth.json`; a
+renderer-only plugin cannot do that safely.
+
+| Method | Description |
+|--------|-------------|
+| `BdApi.Accounts.list()` | List saved account profiles and the current Codex auth path. |
+| `BdApi.Accounts.importCurrent(name)` | Save the current `~/.codex/auth.json` as a named profile. |
+| `BdApi.Accounts.switch(accountId)` | Write a saved profile to `~/.codex/auth.json`, backing up the previous file first. |
+| `BdApi.Accounts.rename(accountId, name)` | Rename a saved profile. |
+| `BdApi.Accounts.delete(accountId)` | Delete a saved profile from BetterCodex storage. |
+
 ## Lifecycle contract
 
 - Export `start()` and `stop()`.
