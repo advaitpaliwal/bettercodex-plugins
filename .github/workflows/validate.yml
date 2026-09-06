@@ -17,3 +17,5 @@ jobs:
         run: npm run validate
       - name: Check catalog.json is up to date
         run: npm run build -- --check
+      - name: Test catalog destinations
+        run: npm test

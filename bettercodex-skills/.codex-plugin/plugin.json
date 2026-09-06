@@ -4,10 +4,10 @@
   "description": "A starter pack of practical Codex skills from the BetterCodex community.",
   "author": {
     "name": "BetterCodex",
-    "url": "https://github.com/companion-inc/bettercodex-plugins"
+    "url": "https://github.com/advaitpaliwal/bettercodex-plugins"
   },
-  "homepage": "https://github.com/companion-inc/bettercodex-plugins",
-  "repository": "https://github.com/companion-inc/bettercodex-plugins",
+  "homepage": "https://github.com/advaitpaliwal/bettercodex-plugins",
+  "repository": "https://github.com/advaitpaliwal/bettercodex-plugins",
   "license": "MIT",
   "keywords": ["bettercodex", "codex", "skills", "workflow"],
   "skills": "./skills/",
@@ -18,7 +18,7 @@
     "developerName": "BetterCodex",
     "category": "Productivity",
     "capabilities": ["Write", "Interactive"],
-    "websiteURL": "https://github.com/companion-inc/bettercodex-plugins",
+    "websiteURL": "https://github.com/advaitpaliwal/bettercodex-plugins",
     "brandColor": "#2b7fff"
   }
 }

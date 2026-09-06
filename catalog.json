@@ -16,9 +16,9 @@
       ],
       "homepageUrl": null,
       "updatedAt": "2026-07-05",
-      "sourceUrl": "https://github.com/companion-inc/bettercodex-plugins/tree/main/addons/plugins/account-switcher",
+      "sourceUrl": "https://github.com/advaitpaliwal/bettercodex-plugins/tree/main/addons/plugins/account-switcher",
       "fileName": "account-switcher.plugin.js",
-      "downloadUrl": "https://raw.githubusercontent.com/companion-inc/bettercodex-plugins/main/addons/plugins/account-switcher/account-switcher.plugin.js"
+      "downloadUrl": "https://raw.githubusercontent.com/advaitpaliwal/bettercodex-plugins/main/addons/plugins/account-switcher/account-switcher.plugin.js"
     },
     {
       "id": "failing-test-first",
@@ -34,8 +34,8 @@
       ],
       "homepageUrl": null,
       "updatedAt": "2026-06-28",
-      "sourceUrl": "https://github.com/companion-inc/bettercodex-plugins/tree/main/bettercodex-skills/skills/failing-test-first",
-      "install": "codex plugin marketplace add companion-inc/bettercodex-plugins",
+      "sourceUrl": "https://github.com/advaitpaliwal/bettercodex-plugins/tree/main/bettercodex-skills/skills/failing-test-first",
+      "install": "codex plugin marketplace add advaitpaliwal/bettercodex-plugins",
       "skillPath": "bettercodex-skills/skills/failing-test-first"
     },
     {
@@ -52,8 +52,8 @@
       ],
       "homepageUrl": null,
       "updatedAt": "2026-06-28",
-      "sourceUrl": "https://github.com/companion-inc/bettercodex-plugins/tree/main/bettercodex-skills/skills/pr-ready",
-      "install": "codex plugin marketplace add companion-inc/bettercodex-plugins",
+      "sourceUrl": "https://github.com/advaitpaliwal/bettercodex-plugins/tree/main/bettercodex-skills/skills/pr-ready",
+      "install": "codex plugin marketplace add advaitpaliwal/bettercodex-plugins",
       "skillPath": "bettercodex-skills/skills/pr-ready"
     },
     {
@@ -70,8 +70,8 @@
       ],
       "homepageUrl": null,
       "updatedAt": "2026-06-28",
-      "sourceUrl": "https://github.com/companion-inc/bettercodex-plugins/tree/main/bettercodex-skills/skills/repo-warmup",
-      "install": "codex plugin marketplace add companion-inc/bettercodex-plugins",
+      "sourceUrl": "https://github.com/advaitpaliwal/bettercodex-plugins/tree/main/bettercodex-skills/skills/repo-warmup",
+      "install": "codex plugin marketplace add advaitpaliwal/bettercodex-plugins",
       "skillPath": "bettercodex-skills/skills/repo-warmup"
     },
     {
@@ -88,8 +88,8 @@
       ],
       "homepageUrl": null,
       "updatedAt": "2026-06-28",
-      "sourceUrl": "https://github.com/companion-inc/bettercodex-plugins/tree/main/bettercodex-skills/skills/thread-checkpoint",
-      "install": "codex plugin marketplace add companion-inc/bettercodex-plugins",
+      "sourceUrl": "https://github.com/advaitpaliwal/bettercodex-plugins/tree/main/bettercodex-skills/skills/thread-checkpoint",
+      "install": "codex plugin marketplace add advaitpaliwal/bettercodex-plugins",
       "skillPath": "bettercodex-skills/skills/thread-checkpoint"
     }
   ]
