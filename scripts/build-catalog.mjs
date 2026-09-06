@@ -9,7 +9,7 @@ import {join, dirname} from "node:path";
 import {fileURLToPath} from "node:url";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
-const REPO = "companion-inc/bettercodex-plugins";
+const REPO = "advaitpaliwal/bettercodex-plugins";
 const SKILLS_DIR = join(root, "bettercodex-skills", "skills");
 
 function entryDir(type, id) {

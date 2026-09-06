@@ -54,7 +54,7 @@ Keep it to commands the user can paste.
 Once merged, this whole repo is a Codex marketplace, so any skill in it installs with:
 
 ```bash
-codex plugin marketplace add companion-inc/bettercodex-plugins
+codex plugin marketplace add advaitpaliwal/bettercodex-plugins
 codex plugin add repo-warmup@bettercodex-plugins
 ```
 

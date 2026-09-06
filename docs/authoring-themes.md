@@ -41,7 +41,7 @@ Start the file with a metadata comment so the marketplace and the in‑app manag
 
 ## Test it locally
 
-1. Install BetterCodex (`npm run desktop -- install` in the [BetterCodex repo](https://github.com/companion-inc/bettercodex)).
+1. Install BetterCodex (`npm run desktop -- install` in the [BetterCodex repo](https://github.com/advaitpaliwal/bettercodex)).
 2. Drop your file in `~/.codex/bettercodex/themes/`.
 3. Open BetterCodex → **Themes** and enable it. Edits reload without restarting Codex.
 
